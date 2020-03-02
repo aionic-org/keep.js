@@ -1,6 +1,6 @@
 {
-	"name": "keep.js",
-	"version": "1.0.0",
+	"name": "@aionic/keep.js",
+	"version": "1.0.1",
 	"description": "Writing notes from the command line quick and easy",
 	"author": "Lars Wächter <lars97.waechter@gmail.com>",
 	"homepage": "https://aionic.org",

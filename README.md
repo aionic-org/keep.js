@@ -13,7 +13,7 @@ Your entered text is stored persistently. This means your old notes will show up
 Install keep.js as global node package
 
 ```
-npm i -g keep.js
+npm i -g @aionic/keep.js
 ```
 
 Now you can run it from anywhere in your command line
