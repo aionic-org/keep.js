@@ -18,6 +18,12 @@
 		"prettier": "prettier --config ./.prettierrc --write bin/index.js"
 	},
 	"license": "MIT",
+	"keywords": [
+		"cli",
+		"javascript",
+		"productivity",
+		"notes"
+	],
 	"dependencies": {
 		"external-editor": "^3.1.0"
 	},
